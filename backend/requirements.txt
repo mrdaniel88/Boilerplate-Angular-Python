@@ -1,0 +1,6 @@
+# pip install -r requirements.txt
+# py -m pip install Flask SQLAlchemy
+# python -m pip install flask_sqlalchemy
+Flask
+SQLAlchemy
+flask-admin[all]
