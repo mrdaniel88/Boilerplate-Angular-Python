@@ -20,4 +20,4 @@
 * To build angular app `cd frontend` and `ng build`
 * To serve angular app `cd forntend `and `ng serve`
 * Frontend [localhost:4200](http://localhost:4200/) 
-* Backend [localhost:5000](http://127.0.0.1:5000) 
+* Backend [localhost:5000](http://127.0.0.1:5000/admin) 
